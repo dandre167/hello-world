@@ -1,7 +1,27 @@
 body{
-    font-size:40px;
+    font-size:20px;
     color:lightblue;
-    background-color:orange;
+    background:url(https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/2018-bmw-m2-competition-99gallery-1526572314.jpg);
     font-style:italic;
+    text-align:center;
+}
     
+.service i{
+    font-size:30px;
+    padding: 25px 20px;
+    background-color:blue;
+    color:#ffff;
+    width:88px;
+    height:88px;
+    border-radius:50%;
+    
+}
+
+headder p{
+    font-style:italic;
+}
+
+.service span{
+    width: 200px;
+    display:inline-block;
 }
